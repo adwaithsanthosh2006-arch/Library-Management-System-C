@@ -1,0 +1,51 @@
+BookID | Title | Author | Total Copies | Available Copies
+101 | The C Programming Language     | Dennis Ritchie               | 5 | 5
+102 | Introduction to Algorithms     | Thomas H. Cormen             | 7 | 7
+103 | Operating System Concepts      | Abraham Silberschatz         | 6 | 6
+104 | Database System Concepts       | Henry F. Korth               | 5 | 5
+105 | Computer Networks              | Andrew S. Tanenbaum          | 8 | 8
+106 | Artificial Intelligence        | Stuart Russell               | 4 | 4
+107 | Clean Code                     | Robert C. Martin             | 5 | 5
+108 | Design Patterns                | Erich Gamma                  | 6 | 6
+109 | Effective Java                 | Joshua Bloch                 | 5 | 5
+110 | Java:The Complete Reference    | Herbert Schildt              | 10 | 10
+111 | Python Crash Course            | Eric Matthes                 | 7 | 7
+112 | Learning Python                | Mark Lutz                    | 8 | 8
+113 | Head First Java                | Kathy Sierra                 | 6 | 6
+114 | Programming Pearls             | Jon Bentley                  | 3 | 3
+115 | The Pragmatic Programmer       | Andrew Hunt                  | 5 | 5
+116 | Code Complete                  | Steve McConnell              | 6 | 6
+117 | Data Structures and Algorithms     | Robert Lafore            | 7 | 7
+118 | Head First Design Patterns     | Eric Freeman                 | 4 | 4
+119 | Cracking the Coding            | Gayle Laakmann McDowell      | 9 | 9
+120 | Computer Organization and Design     | David A. Patterson     | 5 | 5
+121 | Compiler Design                | Alfred V. Aho                | 6 | 6
+122 | Digital Logic and Computer Design     | M. Morris Mano        | 5 | 5
+123 | Software Engineering           | Ian Sommerville              | 7 | 7
+124 | Introduction to Machine Learning     | Ethem Alpaydin         | 5 | 5
+125 | Deep Learning                  | Ian Goodfellow               | 6 | 6
+126 | Pattern Recognition and LLM    | Christopher Bishop           | 4 | 4
+127 | Reinforcement Learning:        | Richard S. Sutton            | 3 | 3
+128 | Computer Graphics              | John F. Hughes               | 6 | 6
+129 | Numerical Recipes              | William H. Press             | 4 | 4
+130 | Discrete Mathematicsons        | Kenneth H. Rosen             | 8 | 8
+131 | Linear Algebra Done Right      | Sheldon Axler                | 5 | 5
+132 | Probability and Statistics     | Morris H. DeGroot            | 7 | 7
+133 | Elements of Information Theory     | Thomas M. Cover          | 6 | 6
+134 | The Mythical Man-Month         | Frederick P. Brooks          | 4 | 4
+135 | Refactoring                    | Martin Fowler                | 5 | 5
+136 | Working Effectively with Code    | Michael Feathers           | 3 | 3
+137 | Agile Software Development     | Alistair Cockburn            | 4 | 4
+138 | Continuous Delivery            | Jez Humble                   | 5 | 5
+139 | Site Reliability Engineering    | Niall Richard Murphy        | 6 | 6
+140 | Structure and Interpretation of Computer Programs     | Harold Abelson     | 4 | 4
+141 | Computer Architecture: A Quantitative Approach     | John L. Hennessy     | 7 | 7
+142 | The Art of Computer Programming, Vol 1     | Donald E.Knuth     | 5 | 5
+143 | The Art of Computer Programming, Vol 2     | Donald E.Knuth     | 5 | 5
+144 | The Art of Computer Programming, Vol 3     | Donald E.Knuth     | 5 | 5
+145 | The Art of Computer Programming, Vol 4     | Donald E.Knuth     | 5 | 5
+146 | Algorithms                     | Robert Sedgewick             | 6 | 6
+147 | The Algorithm Design Manual    | Steven S. Skiena             | 7 | 7
+148 | Programming in ANSI C          | E. Balagurusamy              | 10 | 10
+149 | Fundamentals of Database Systems     | Ramez Elmasri          | 6 | 6
+150 | Modern Operating Systems       | Andrew S. Tanenbaum          | 8 | 8

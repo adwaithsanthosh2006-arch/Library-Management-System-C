@@ -1,0 +1,4 @@
+StudentID | Action | BookID | Title                          | Author                       | Timestamp
+12322     | RETURN | 123    | Software Engineering           | Ian Sommerville              | Thu Aug 21 18:09:39 2025
+12322 | BORROW | 122 | Digital Logic and Computer Design     | M. Morris Mano        | Thu Aug 21 18:10:30 2025
+12322 | RETURN | 122 | Digital Logic and Computer Design     | M. Morris Mano        | Thu Aug 21 18:10:39 2025
